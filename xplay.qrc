@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="Xplay">
+    <file>pauseafter.png</file>
+    <file>pausebefore.png</file>
+    <file>playafter.png</file>
+    <file>playbefore.png</file>
+    <file>playafter.png</file>
+    <file>playbefore.png</file>
+    <file>openafter.png</file>
+    <file>openbefore.png</file>
+    <file>fileexplorer.png</file>
+    <file>fileexplorer2.png</file>
+    <file>video.ico</file>
+    <file>start.png</file>
+    <file>pause.png</file>
+    <file>folder_rainbow_movie.png</file>
+    <file>open.png</file>
+  </qresource>
+</RCC>
